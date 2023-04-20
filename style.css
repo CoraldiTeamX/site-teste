@@ -9,21 +9,21 @@ h1{
     font-size: 500%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(255, 255, 255);
-    background-color: rgb(23, 23, 92);
+    background-color: 0;
     text-shadow: 2px 2px 4px rgb(0, 110, 255);
 }
 h2 {
     font-size: 250%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(255, 255, 255);
-    background-color: rgb(23, 23, 92);
+    background-color:0;
     text-shadow: 2px 2px 4px rgb(0, 110, 255);
 }
 h3{
     font-size: 129%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(255, 255, 255);
-    background-color: rgb(23, 23, 92);
+    background-color: 0;
     text-shadow: 2px 2px 4px rgb(0, 110, 255);
     margin: 20px;
 }
@@ -180,13 +180,14 @@ body{
         text-align: justify;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: rgb(255, 255, 255);
-        text-shadow: 2px 2px 4px rgb(0, 110, 255);
+        text-shadow: 2px 2px 4px 0;
         margin: 20px; 
     }
     .img4 a:link{
         font-size: 150%;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        text-shadow: 2px 2px 26px rgb(255, 98, 242);
+        color:gold;
+        text-shadow: 0;
         text-align: justify;
         margin: 20px;
     }
@@ -217,7 +218,6 @@ body{
         box-shadow:  5px 5px 3px rgb(230, 245, 25);
         
     }
-
 
 
 
