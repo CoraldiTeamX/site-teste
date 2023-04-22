@@ -215,17 +215,16 @@ body{
         bottom: 0px;
         width: 100%;
     }
+    .btn img{
+      background-color: (19, 19, 78);
+      border:none;
+      border-radius: 15px;
+      cursor: pointer;
+      width: 65px;
+      height: 60px;
+      position: absolute;
+      margin: 30px;
+      left: 50px;
+    }
     
-    
-
-
-
-
-
-
-
-
-
-
-
 }
