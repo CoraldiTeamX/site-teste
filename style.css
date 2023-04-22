@@ -27,7 +27,14 @@ h3{
     text-shadow: 2px 2px 4px rgb(0, 110, 255);
     margin: 20px;
 }
-
+h5{
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px rgb(0, 110, 255);
+    text-align: center;
+    margin: 2%;
+}
 p{
     font-size: 135%;
     text-align: justify;
@@ -59,17 +66,12 @@ body{
     background-attachment: fixed;
 }
 .img2 img{
-    width: 200px;
+    width: 230px;
     height: auto;
     margin: 5px;
     border: 6px double rgb(192, 192, 3);
     margin-top: 10%;
     
-}
-.footer {
-    position: absolute;
-    bottom: 0px;
-    width: 100%;
 }
 .logotipo p {
     width: 23%;
@@ -141,8 +143,6 @@ body{
         color: rgb(2, 1, 92);
 
     }
-
-    
     .img3 img {
         width: 400px;
         height: auto;
@@ -156,16 +156,8 @@ body{
         text-align: justify;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: rgb(255, 255, 255);
-        text-shadow: 2px 2px 4px rgb(0, 110, 255);
+        text-shadow: 0;
         margin: 20px;
-    }
-    h5{
-        font-size: 200%;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: rgb(255, 255, 255);
-        text-shadow: 2px 2px 4px rgb(0, 110, 255);
-        text-align: center;
-        margin: 2%;
     }
     .img4 img{
         width: 300px;
@@ -183,18 +175,10 @@ body{
         text-shadow: 2px 2px 4px 0;
         margin: 20px; 
     }
-    .img4 a:link{
-        font-size: 150%;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color:gold;
-        text-shadow: 0;
-        text-align: justify;
-        margin: 20px;
-    }
     .img5 img{
-        width: 300px;
+        width: 500px;
         height: auto;
-        margin: 30px;
+        margin: 22px;
         margin-top: -1%;
         border: 6px double rgb(192, 192, 3);
     }
@@ -204,7 +188,7 @@ body{
         text-align: justify;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: rgb(255, 255, 255);
-        text-shadow: 2px 2px 4px rgb(0, 110, 255);
+        text-shadow: 0;
         margin: 20px; 
     }
     table, th, td {
@@ -218,6 +202,21 @@ body{
         box-shadow:  5px 5px 3px rgb(230, 245, 25);
         
     }
+    .img4 a:link{
+        font-size: 120%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: gold;
+        text-shadow: 0%;
+        text-align: justify;
+        margin: 1%;
+    }
+    .footer {
+        position: absolute;
+        bottom: 0px;
+        width: 100%;
+    }
+    
+    
 
 
 
