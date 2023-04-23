@@ -30,7 +30,7 @@ h3{
 h5{
     font-size: 200%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(255, 255, 255);
+    color: black;
     text-shadow: 2px 2px 4px rgb(0, 110, 255);
     text-align: center;
     margin: 2%;
@@ -215,8 +215,8 @@ body{
         bottom: 0px;
         width: 100%;
     }
-    .btn img{
-      background-color: (19, 19, 78);
+    .imglink img{
+      background-color: black;
       border:none;
       border-radius: 15px;
       cursor: pointer;
